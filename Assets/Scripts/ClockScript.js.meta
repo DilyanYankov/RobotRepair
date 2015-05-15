@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8b498ae0dcd04304895b15c01c4121e2
+timeCreated: 1431696904
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clockFG: {instanceID: 0}
+  - clockBG: {instanceID: 0}
+  - rightSide: {instanceID: 0}
+  - leftSide: {instanceID: 0}
+  - back: {instanceID: 0}
+  - blocker: {instanceID: 0}
+  - shiny: {instanceID: 0}
+  - finished: {instanceID: 0}
+  - canvas: {fileID: 22354506, guid: f353ef92a7581894f8fcd57e704ec3cb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

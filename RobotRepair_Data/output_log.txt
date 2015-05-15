@@ -1,0 +1,66 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Mobility Radeon HD 5400 Series (ID=0x68e0)
+    Vendor:   ATI
+    VRAM:     1018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.290 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: c90 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 53.133865 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 1.605972 ms (FindLiveObjects: 0.046648 ms CreateObjectMapping: 0.056159 ms MarkObjects: 1.484143 ms  DeleteObjects: 0.015851 ms)
+
+Platform assembly: D:\Programs\Unity Projects\robotRepair\RobotRepair_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.815214 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 0.779435 ms (FindLiveObjects: 0.039402 ms CreateObjectMapping: 0.029891 ms MarkObjects: 0.619562 ms  DeleteObjects: 0.089220 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.789399 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 0.920739 ms (FindLiveObjects: 0.043931 ms CreateObjectMapping: 0.037137 ms MarkObjects: 0.817026 ms  DeleteObjects: 0.020833 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568385 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 0.852804 ms (FindLiveObjects: 0.044836 ms CreateObjectMapping: 0.033967 ms MarkObjects: 0.686591 ms  DeleteObjects: 0.085597 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.554345 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 0.865485 ms (FindLiveObjects: 0.043478 ms CreateObjectMapping: 0.040307 ms MarkObjects: 0.759961 ms  DeleteObjects: 0.019927 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.580160 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 0.913040 ms (FindLiveObjects: 0.036231 ms CreateObjectMapping: 0.030344 ms MarkObjects: 0.759508 ms  DeleteObjects: 0.085597 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.552081 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 0.909869 ms (FindLiveObjects: 0.044383 ms CreateObjectMapping: 0.040307 ms MarkObjects: 0.805250 ms  DeleteObjects: 0.019021 ms)
+
